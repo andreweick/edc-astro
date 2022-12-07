@@ -1,6 +1,6 @@
 ---
 title: "Lodema Sackett"
-date: 2015-11-12T14:53:00-05:00
+datetime: 2015-11-12T14:53:00-05:00
 tags: ["sackett", "familytree", "newspaper"]
 draft: false
 description: "An interview from 1817 about being a school teacher in Ohio"

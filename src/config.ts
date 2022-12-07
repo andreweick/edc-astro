@@ -2,12 +2,12 @@ import type { SocialObjects } from "./types";
 
 export const SITE = {
   website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
+  author: "M. Andrew Eick",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  title: "I Be Not He",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 10,
 };
 
 export const LOGO_IMAGE = {
@@ -20,8 +20,8 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: ` ${SITE.title} on Github`,
+    href: "https://github.com/andreweick",
+    linkTitle: ` ${SITE.author} on Github`,
     active: true,
   },
   {
@@ -38,32 +38,20 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on LinkedIn`,
+    href: "https://linkedin.com/in/andreweick",
+    linkTitle: `${SITE.author} on LinkedIn`,
     active: true,
   },
   {
-    name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
-  },
-  {
     name: "Twitter",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Twitter`,
-    active: false,
-  },
-  {
-    name: "Twitch",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Twitch`,
+    href: "https://github.com/andreweick",
+    linkTitle: `${SITE.author} on Twitter`,
     active: false,
   },
   {
     name: "YouTube",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on YouTube`,
+    href: "https://www.youtube.com/channel/UCk2TPo5-33bGbrJaTpbBr5Q",
+    linkTitle: `${SITE.author} on YouTube`,
     active: false,
   },
   {

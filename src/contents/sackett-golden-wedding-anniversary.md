@@ -1,6 +1,6 @@
 ---
 title: Sackett Golden Wedding Anniversary
-date: 1917-11-07T05:00:00.000Z
+datetime: 1917-11-07T05:00:00.000Z
 description: Newspaper story from 1917 describing Cassander Sackett anniversary
 tags:
   - civilwar
